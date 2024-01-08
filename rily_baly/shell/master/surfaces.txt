@@ -41,7 +41,7 @@ collision1,64, 169, 101, 199,stop_button2
 collision2,114, 171, 151, 197,play_button
 collision3,31, 181, 53, 216,k_window
 collision4,85, 269, 127, 307,menu
-collision5,97, 203, 122, 213,clear_button
+collision5,94, 214, 129, 232,clear_button
 collision6,49, 111, 154, 161,stroke_p
 }
 
@@ -80,7 +80,7 @@ collision1,64, 169, 101, 199,stop_button2
 collision2,114, 171, 151, 197,play_button
 collision3,31, 181, 53, 216,k_window
 collision4,85, 269, 127, 307,menu
-collision5,97, 203, 122, 213,clear_button
+collision5,94, 214, 129, 232,clear_button
 collision6,49, 111, 154, 161,stroke_p
 }
 
@@ -97,7 +97,7 @@ collision1,64, 169, 101, 199,stop_button2
 collision2,114, 171, 151, 197,play_button
 collision3,31, 181, 53, 216,k_window
 collision4,85, 269, 127, 307,menu
-collision5,97, 203, 122, 213,clear_button
+collision5,94, 214, 129, 232,clear_button
 collision6,49, 111, 154, 161,stroke_p
 }
 
@@ -193,7 +193,7 @@ collision1,64, 169, 101, 199,stop_button2
 collision2,114, 171, 151, 197,play_button
 collision3,31, 181, 53, 216,k_window
 collision4,85, 269, 127, 307,menu
-collision5,97, 203, 122, 213,clear_button
+collision5,94, 214, 129, 232,clear_button
 collision6,49, 111, 154, 161,stroke_p
 }
 
@@ -211,9 +211,6 @@ surface0,surface1,surface6,surface25
 {
 
 
-//clothes-basic
-animation901.interval,bind
-animation901.pattern0,add,9600,0,0,0
 }
 
 
