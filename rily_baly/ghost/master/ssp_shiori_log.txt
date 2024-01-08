@@ -1,0 +1,44 @@
+=========================================================
+2023/10/04 20:23:24.715
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: Shift_JIS
+SecurityLevel: local
+Sender: SSP
+SenderType: internal
+ID: OnSecondChange
+Reference0: 149
+Reference1: 1
+Reference2: 0
+Reference3: 1
+Reference4: 1
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: Shift_JIS
+
+
+=========================================================
+2023/10/04 20:23:25.717
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: Shift_JIS
+SecurityLevel: local
+Sender: SSP
+SenderType: internal
+ID: OnSecondChange
+Reference0: 149
+Reference1: 1
+Reference2: 0
+Reference3: 1
+Reference4: 0
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: Shift_JIS
+
+
