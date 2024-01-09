@@ -1,0 +1,11 @@
+Replace the "1.dic" file within the master folder with either the "Less" or "No" chatter document, depending on what you want.
+
+LESS CHATTER INCLUDES:
+	An every 15 minute message of how cool you are.
+
+NO CHATTER INCLUDES:
+	Comments only on head petting.
+
+___
+HOW TO:
+	Rename whichever file to "1.dic" and replace the current file within the master folder. I'd suggest making a copy of whichever file you want to use before renaming.

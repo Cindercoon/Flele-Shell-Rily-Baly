@@ -156,7 +156,7 @@ txt = "_" + reference0
 	
 OnMinuteChange
  {
-	if ○現在シェル=='Trench Coat'
+	if ○現在シェル=='Null'
 	{
 	if minute == 15 || minute == 30 || minute == 45 || minute == 59
 		{
