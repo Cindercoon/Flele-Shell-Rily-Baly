@@ -1,0 +1,10 @@
+Charset,UTF-8
+install,756708608
+homeurl_found,1
+surfacecount,33
+homeurl,https://raw.githubusercontent.com/Cindercoon/Flele-Shell-Rily-Baly/main/rily_baly/
+update_result,NG(404)
+firstboot,756708608
+update_time,758074493
+commitmemorysize,687796
+lastboot,758078000

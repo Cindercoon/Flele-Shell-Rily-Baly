@@ -2486,7 +2486,7 @@ OnUpdateComplete {
 
 OnUpdateFailure{
 
-"\0\s[6]Something's wrong\w7.\w7.\w7.\nYou can always manually instal new files.\nRight click me. The tab under \ULink\U\ will have the url.\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
+"\0\s[6]Something's wrong\w7.\w7.\w7.\nYou can always manually install new files.\nRight click me. The tab under \ULink\U\ will have the url.\w9\w9\w9\w9%(○サーフェス)\b[-1]\e"
 
 }
 
@@ -2663,11 +2663,14 @@ On_readmebutton.caption		{"FLELE Readme(&G)"}
 //リンク
 On_sakura.recommendsites {"/
 
-Manual network update%(ASC(1))/
+Manual update%(ASC(1))/
 https://ko-fi.com/cindercoon/shop/flele/%(ASC(2))/
 
+Ghost bug report%(ASC(1))/
+mailto:cindercoonbusiness@gmail.com%(ASC(2))/
+
 FLELE translated by%(ASC(1))/
-http://zarla.deviantart.net/%(ASC(2))/
+https://www.deviantart.com/zarla/%(ASC(2))/
 "}
 
 //ネットワーク更新
